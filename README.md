@@ -1,2 +1,8 @@
 # MediaTek_WiFi-Bluetooth_-Drivers_Backup
 联发科无线网卡驱动备份
+# WIFI7
+WIFI Drivers - RZ7xx (MT7925/MT7927) : 5.7.0.4755 WHQL [15/10/2025]
+BT Drivers - RZ7xx (MT7925/MT7927) : 1.1044.0.557 WHQL [13/10/2025]
+# WIFI6E
+WIFI Drivers - RZ6xx (MT7921/MT79x2) : 3.5.0.1349 WHQL [22/09/2025]
+BT Drivers - RZ6xx (MT7921/MT79x2) : 1.1044.0.556 WHQL [17/09/2025]
